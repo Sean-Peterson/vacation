@@ -1,6 +1,5 @@
 body {
   font-family: "Book Antiqua";
-  background-color: navajowhite;
 }
 
 .jumbotron {
@@ -8,6 +7,7 @@ body {
   background-size: cover;
   background-position: center;
   color: white;
+  text-align: center;
 
 }
 
@@ -18,7 +18,7 @@ img {
 
 .well {
    background: linear-gradient(navajowhite, white, navajowhite);
-   margin: 1px;
+   margin: 0px;
    border: none;
 }
 
